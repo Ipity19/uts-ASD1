@@ -1,2 +1,3 @@
-# uts-ASD1
-Nama : Fitri Yanti Nim: 2309116016
+# uts-ASD
+Nama : Fitri Yanti 
+Nim  : 2309116016
